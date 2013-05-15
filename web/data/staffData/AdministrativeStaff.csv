@@ -1,0 +1,47 @@
+REGISTRATION_NO,STAFF_CATEGORY_ID,DATE_OF_HIRE,FULL_NAME,NAME_WT_INITIALS,LAST_NAME,NATIONAL_ID_NO,DOB,SUBJECT_ID,STUDY_MEDIUM_ID,SECTION_ID,GEANDER,BASIC_SALARY
+186,2,2010-09-01,Mrs S Peiris,Mrs S Peiris,Peiris,10100,1990-01-01,,,,F,0
+187,2,2012-03-01,Mrs K.P.Panditharatne,Mrs K.P.Panditharatne,Panditharatne,10101,1962-10-13,,,,F,0
+188,2,2001-07-02,Mrs N P Weerasinghe,Mrs N P Weerasinghe,Weerasinghe,465,1977-08-23,,,,F,0
+189,2,2005-10-01,Mrs P Scharenguivel,Mrs P Scharenguivel,Scharenguivel,693,1975-11-02,,,,F,0
+190,2,1999-02-17,Mrs H K Gamage,Mrs H K Gamage,Gamage,432,1976-11-11,,,,F,0
+191,2,2010-07-26,Mrs D.S.Ratnayake,Mrs D.S.Ratnayake,Ratnayake,818,1957-10-04,,,,F,0
+192,2,2012-01-01,Mr J B Peiris,Mr J B Peiris,Peiris,502,1990-01-01,,,,M,0
+193,2,2011-05-06,Mrs G C Perera ,Mrs G C Perera ,Perera ,840,1967-12-12,,,,F,0
+194,2,1978-07-01,Mrs I S Cooray,Mrs I S Cooray,Cooray,155,1990-01-01,,,,F,0
+195,2,1993-06-15,Mrs W P S Pathiravithana,Mrs W P S Pathiravithana,Pathiravithana,360,1973-03-04,,,,F,0
+196,2,2004-01-01,Mrs M C Barrow,Mrs M C Barrow,Barrow,598,1960-05-16,,,,F,0
+197,2,2010-11-01,Mr A W de Silva,Mr A W de Silva,de Silva,826,1958-09-29,,,,M,0
+198,2,2004-01-01,Mrs M C W Jayawardena,Mrs M C W Jayawardena,Jayawardena,601,1977-06-12,,,,F,0
+199,2,1995-09-01,Mrs M N Wijesinghe,Mrs M N Wijesinghe,Wijesinghe,373,1961-12-06,,,,F,0
+200,2,1979-04-01,Mr S Wijayawardena,Mr S Wijayawardena,Wijayawardena,564,1954-08-01,,,,M,0
+201,2,2012-02-15,Mr.R.C.B.Weerakoon,Mr.R.C.B.Weerakoon,Weerakoon,10102,1994-03-18,,,,M,0
+202,2,2009-02-15,Mrs S N Jansen,Mrs S N Jansen,Jansen,787,1976-02-13,,,,F,0
+203,2,2008-10-01,Mrs E N Walpola,Mrs E N Walpola,Walpola,773,1971-09-21,,,,F,0
+204,2,2002-06-15,Mr S Panditharatne,Mr S Panditharatne,Panditharatne,526,1952-08-16,,,,M ,0
+205,2,2011-01-01,Mr N J Mudannayake ,Mr N J Mudannayake ,Mudannayake ,831,1951-05-18,,,,M ,0
+206,2,1992-10-01,Mrs J P Bartholomusz,Mrs J P Bartholomusz,Bartholomusz,324,1956-01-22,,,,F,0
+207,2,2004-06-01,Mrs D P M Arendtsz,Mrs D P M Arendtsz,Arendtsz,626,1955-12-03,,,,F,0
+208,2,2001-07-01,Mr A Abhayaratne,Mr A Abhayaratne,Abhayaratne,463,1969-11-21,,,,M,0
+209,2,2004-12-01,Mr P L B Nandasiri,Mr P L B Nandasiri,Nandasiri,657,1990-01-01,,,,M,0
+210,2,2005-06-15,Mrs B F Ragell,Mrs B F Ragell,Ragell,678,1985-02-15,,,,F,0
+211,2,2010-10-01,Miss L G Jayatilaka ,Miss L G Jayatilaka ,Jayatilaka ,825,1978-12-12,,,,F,0
+212,2,2002-10-01,Mrs M.K.Elkaduwa,Mrs M.K.Elkaduwa,Elkaduwa,533,1958-08-02,,,,F,0
+213,2,2004-07-01,Miss N Balasingam,Miss N Balasingam,Balasingam,642,1961-10-13,,,,F,0
+214,2,2002-10-01,Mr S.F. Fernando,Mr S.F. Fernando,Fernando,535,1969-05-25,,,,M,0
+215,2,2012-01-01,Mr R Kanedran,Mr R Kanedran,Kanedran,590,1990-01-01,,,,M,0
+216,2,2000-11-01,Mr H K R de Silva,Mr H K R de Silva,de Silva,461,1974-05-21,,,,M,0
+217,2,2011-09-07,Mrs F Salgado,Mrs F Salgado,Salgado,854,1958-05-08,,,,F,0
+218,2,2012-01-01,Mr Vijitha de Silva,Mr Vijitha de Silva,Silva,725,1963-05-24,,,,M,0
+219,2,2011-06-01,Mr.S.L.V.De Silva,Mr.S.L.V.De Silva,Silva,10103,1963-03-03,,,,M,0
+220,2,2002-06-04,Mrs M K D Doraliyagoda,Mrs M K D Doraliyagoda,Doraliyagoda,534,1962-08-25,,,,F,0
+221,2,1997-06-01,Mr M C Fonseka,Mr M C Fonseka,Fonseka,411,1962-11-08,,,,M,0
+222,2,2003-09-15,Mrs N S Wijesinghe,Mrs N S Wijesinghe,Wijesinghe,586,1964-02-22,,,,F,0
+223,2,2004-08-01,Mr L P de Zoysa,Mr L P de Zoysa,Zoysa,637,1959-07-14,,,,M,0
+224,2,2004-09-01,Mr A Alwis,Mr A Alwis,Alwis,643,1990-01-01,,,,M,0
+225,2,2004-09-01,Mr D Bodiyabaduge,Mr D Bodiyabaduge,Bodiyabaduge,646,1973-08-07,,,,M,0
+226,2,2002-06-15,Mr N Harridge,Mr N Harridge,Harridge,517,1983-08-27,,,,M,0
+227,2,2003-04-21,Mr H D A Wijesinghe,Mr H D A Wijesinghe,Wijesinghe,568,1969-03-30,,,,M,0
+228,2,2006-05-15,Mr D T Perera,Mr D T Perera,Perera,710,1972-02-05,,,,M,0
+229,2,2004-05-01,Mr.P.J.Sollamuttu,Mr.P.J.Sollamuttu,Sollamuttu,624,1985-03-08,,,,M,0
+230,2,2011-11-01,Mr.K.Amarasinghe,Mr.K.Amarasinghe,Amarasinghe,10104,1990-01-01,,,,M,0
+231,2,2000-03-01,Mr B.K.Senaweera,Mr B.K.Senaweera,Senaweera,467,1977-10-16,,,,M,0

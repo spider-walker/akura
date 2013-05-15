@@ -1,0 +1,49 @@
+REGISTRATION_NO,STAFF_CATEGORY_ID,DATE_OF_HIRE,FULL_NAME,NAME_WT_INITIALS,LAST_NAME,NATIONAL_ID_NO,DOB,SUBJECT_ID,STUDY_MEDIUM_ID,SECTION_ID,GENDER,BASIC_SALARY
+88,1,2012-01-01,Mr V Senadeera,Mr V Senadeera,Senadeera,574,1973-06-11,1,1,3,M,0
+89,1,1999-03-03,Mr P D S Gunawardena,Mr P D S Gunawardena,Gunawardena,435,1971-04-03,1,1,3,M,0
+90,1,1998-05-04,Mr K A S C Kasthuriarachchi,Mr K A S C Kasthuriarachchi,Kasthuriarachchi,426,1961-09-09,1,1,3,M,0
+91,1,1997-01-06,Mr J A Gunasiri,Mr J A Gunasiri,Gunasiri,397,1967-07-24,1,1,3,M,0
+92,1,1978-01-18,Mr S.D.De Silva,Mr S.D.De Silva,De Silva,53,1946-02-07,1,1,3,M,0
+93,1,2005-05-01,Mr S A B Amunugama,Mr S A B Amunugama,Amunugama,674,1975-02-13,1,1,3,M,0
+94,1,2011-11-15,Mrs.P.S.Alahendra,Mrs.P.S.Alahendra,Alahendra,862,1951-08-25,1,1,3,F,0
+95,1,2000-05-08,Mrs S J Bandara,Mrs S J Bandara,Bandara,449,1968-12-13,1,1,3,F,0
+96,1,2006-07-01,Mrs G Balathayalan,Mrs G Balathayalan,Balathayalan,712,1964-01-23,1,1,3,F,0
+97,1,2005-01-01,Mr M D W Cooray,Mr M D W Cooray,Cooray,661,1961-10-19,1,1,3,M,0
+98,1,2007-02-15,Mrs Colombage M.N.K.,Mrs Colombage M.N.K.,Colombage,727,1975-09-27,1,1,3,F,0
+99,1,2002-01-07,Mr K D N Deepal,Mr K D N Deepal,Deepal,496,1972-04-14,1,1,3,M,0
+100,1,2009-06-01, Mr C P Deeyamulla,Mr C P Deeyamulla,Deeyamulla,794,1984-09-28,1,1,3,M,0
+101,1,2005-03-15,Mr J M Fais,Mr J M Fais,Fais,670,1966-05-04,1,1,3,M,0
+102,1,2012-01-09,Mr K.C.J.B. Fernando,Mr K.C.J.B. Fernando,Fernando,871,1976-09-04,1,1,3,M,0
+103,1,2011-04-28,Mrs N.J.Fernado,Mrs N.J.Fernado,Fernado,838,1984-09-01,1,1,3,F,0
+104,1,2012-01-09,Mrs. W.M.G.V. Hashanthi,Mrs. W.M.G.V. Hashanthi,Hashanthi,870,1980-03-27,1,1,3,F,0
+105,1,2012-01-09,Mrs.R.P.L.S. Kanthi,Mrs.R.P.L.S. Kanthi,Kanthi,877,1954-01-07,1,1,3,F,0
+106,1,2012-01-09,Miss N Kapugeekiyana,Miss N Kapugeekiyana,Kapugeekiyana,872,1983-01-10,1,1,3,F,0
+107,1,2004-01-01,Mrs R A M Maduwanthi,Mrs R A M Maduwanthi,Maduwanthi,602,1978-10-19,1,1,3,F,0
+108,1,2008-09-01,Mr G Nesaseelan,Mr G Nesaseelan,Nesaseelan,763,1955-11-28,1,1,3,M,0
+109,1,2004-09-21,Mrs I D S R Perera,Mrs I D S R Perera,Perera,650,1975-02-17,1,1,3,F,0
+110,1,2002-09-02,Miss L D L Perera,Miss L D L Perera,Perera,531,1973-08-23,1,1,3,F,0
+111,1,2005-09-15,Mr J A D M L Ranasinghe,Mr J A D M L Ranasinghe,Ranasinghe,689,1975-02-11,1,1,3,M,0
+112,1,2012-01-09,Mr K D J Ranjith ,Mr K D J Ranjith ,Ranjith ,878,1953-04-18,1,1,3,M,0
+113,1,2010-01-01,Mrs H A N Seneviratne,Mrs H A N Seneviratne,Seneviratne,800,1966-12-22,1,1,3,F,0
+114,1,2006-05-15,Mrs G J Seruban,Mrs G J Seruban,Seruban,711,1967-05-25,1,1,3,F,0
+115,1,2009-09-10,Mrs J Sivakumar,Mrs J Sivakumar,Sivakumar,797,1964-02-12,1,1,3,F,0
+116,1,1997-01-06,Mr W.M.D.L.Wijekantha,Mr W.M.D.L.Wijekantha,Wijekantha,399,1968-05-27,1,1,3,M,0
+117,1,2005-08-01,Mrs S.C.Wickramasinghe,Mrs S.C.Wickramasinghe,Wickramasinghe,687,1979-04-06,1,1,3,F,0
+118,1,2012-01-09,Mr.S.M. De Silva,Mr.S.M. De Silva,De Silva,880,1992-03-25,1,1,3,M,0
+119,1,2012-03-01,Mrs R.M.N.K.Rathnayake,Mrs R.M.N.K.Rathnayake,Rathnayake,10001,1990-01-01,1,1,3,F,0
+120,1,2012-02-01,Mr.Eshan De Mel,Mr.Eshan De Mel,De Mel,10002,1990-01-01,1,1,3,M,0
+121,1,2012-01-09,Mr.M.E.Wickremasinghe,Mr.M.E.Wickremasinghe,Wickremasinghe,10003,1990-01-01,1,1,3,M,0
+122,1,2012-01-09,Mr.K.S.Chang,Mr.K.S.Chang,Chang,10004,1990-01-01,1,1,3,M,0
+307,1,2012-05-14,Mrs.H.Garusinghe,Mrs.H.Garusinghe,Garusinghe,10005,1990-01-01,1,1,3,F,0
+P514128,1,2012-01-01,Mr. J.A.Gunasiri,Mr. J.A.Gunasiri,Gunasiri,P10015,1990-01-01,1,1,3,M,0
+P514357,1,2012-01-01,Mr. W.M.D.L. Wijekantha,Mr. W.M.D.L. Wijekantha,Wijekantha,P10016,1990-01-01,1,1,3,M,0
+P514358,1,2012-01-01,Mr.K.A.S.C.Kasthuriarachchi,Mr.K.A.S.C.Kasthuriarachchi,Kasthuriarachchi,P10017,1990-01-01,1,1,3,M,0
+P514356,1,2012-01-01,Mr. P.D.S. Gunawardena,Mr. P.D.S. Gunawardena,Gunawardena,P10018,1990-01-01,1,1,3,M,0
+P514237,1,2012-01-01,Mrs.S.J.Bandara,Mrs.S.J.Bandara,Bandara,P10019,1990-01-01,1,1,3,F,0
+P514331,1,2012-01-01,Mr. K.D.N. Deepal,Mr. K.D.N. Deepal,Deepal,P10020,1990-01-01,1,1,3,M,0
+P514255,1,2012-01-01,Mrs. R.A.M. Maduwanthi,Mrs. R.A.M. Maduwanthi,Maduwanthi,P10021,1990-01-01,1,1,3,F,0
+P514256,1,2012-01-01,Mrs. S.C. Wickremasinghe,Mrs. S.C. Wickremasinghe,Wickremasinghe,P10022,1990-01-01,1,1,3,F,0
+P514354,1,2012-01-01,Mrs. I.D.S.R. Perera ,Mrs. I.D.S.R. Perera ,Perera ,P10023,1990-01-01,1,1,3,F,0
+PENSTION1,1,2012-01-01,Mr. M.D.W. Cooray,Mr. M.D.W. Cooray,Cooray,P10024,1990-01-01,1,1,3,M,0
+P514329,1,2012-01-01,Mrs. J.M. Fais,Mrs. J.M. Fais,Fais,P10025,1990-01-01,1,1,3,F,0
+P514330,1,2012-01-01,Mr. S.A.M.AP.W.S. Amunugama,Mr. S.A.M.AP.W.S. Amunugama,Amunugama,P10026,1990-01-01,1,1,3,M,0

@@ -1,0 +1,30 @@
+REGISTRATION_NO,STAFF_CATEGORY_ID,DATE_OF_HIRE,FULL_NAME,NAME_WT_INITIALS,LAST_NAME,NATIONAL_ID_NO,DOB,SUBJECT_ID,STUDY_MEDIUM_ID,SECTION_ID,GENDER,BASIC_SALARY
+149,1,2012-01-01,Mr.W A P S Perera,Mr.W A P S Perera,Perera,110,1990-01-01,1,1,4,M,0
+150,1,1980-05-27,Mrs M D Leelani,Mrs M D Leelani,Leelani,71,1955-11-20,1,1,4,F,0
+151,1,1985-05-07,Mr B A Piyasiri,Mr B A Piyasiri,Piyasiri,184,1950-03-06,1,1,4,M,0
+152,1,1981-10-15,Mrs C R Dias,Mrs C R Dias,Dias,89,1958-03-12,1,1,4,F,0
+153,1,1994-06-01,Mrs J K W Fernando,Mrs J K W Fernando,Fernando,362,1990-01-01,1,1,4,F,0
+154,1,1993-01-15,Mr S A L Nandasiri,Mr S A L Nandasiri,Nandasiri,330,1957-09-01,1,1,4,M,0
+155,1,2000-02-15,Mrs W P M N Weerawardena,Mrs W P M N Weerawardena,Weerawardena,446,1975-02-26,1,1,4,F,0
+156,1,2004-01-15,Mrs K T D Abeynayake,Mrs K T D Abeynayake,Abeynayake,613,1973-04-27,1,1,4,F,0
+157,1,2003-11-01,Mr B.S.U.Perera,Mr B.S.U.Perera,Perera,594,1967-04-23,1,1,4,M,0
+158,1,2005-05-01,Mrs M Rupasingam,Mrs M Rupasingam,Rupasingam,673,1959-08-02,1,1,4,F,0
+159,1,2005-05-15,Mrs U T Galagedera,Mrs U T Galagedera,Galagedera,676,1975-10-10,1,1,4,F,0
+160,1,2006-05-01,Mrs T N T Amunugama,Mrs T N T Amunugama,Amunugama,708,1976-08-12,1,1,4,F,0
+161,1,2007-10-10,Mrs S Sri Kanagasabai,Mrs S Sri Kanagasabai,Kanagasabai,741,1964-02-08,1,1,4,F,0
+162,1,2008-11-01,Mrs W A P Silva,Mrs W A P Silva,Silva,776,1979-09-22,1,1,4,F,0
+163,1,2008-11-15,Mrs C D M Perera,Mrs C D M Perera,Perera,778,1974-03-23,1,1,4,F,0
+164,1,1995-10-04,Mr K N I Perera,Mr K N I Perera,Perera,395,1973-02-24,1,1,4,M,0
+165,1,2010-03-15,Mr  A Sivakumar,Mr  A Sivakumar,Sivakumar,808,1972-07-03,1,1,4,M,0
+166,1,2005-11-01,Mrs P A Aldeniya,Mrs P A Aldeniya,Aldeniya,697,1966-07-18,1,1,4,F,0
+167,1,2011-04-27,Mrs K G A Dhanushika Erandi,Mrs K G A Dhanushika Erandi,Erandi,847,1981-01-15,1,1,4,F,0
+168,1,2011-06-27,Mr M.T.S.P. Perera,Mr M.T.S.P. Perera,Perera,851,1972-09-26,1,1,4,M,0
+169,1,2011-09-26,Mr.K. Ganeshalingam,Mr.K. Ganeshalingam,Ganeshalingam,864,1951-03-08,1,1,4,M,0
+170,1,2012-01-23,Mrs.T.R.Perera,Mrs.T.R.Perera,Perera,10006,1945-04-18,1,1,4,F,0
+306,1,2012-05-21,Mrs.O.C.M.Malage,Mrs.O.C.M.Malage,Malage,10007,1990-01-01,1,1,4,F,0
+P4822,1,1990-01-01,Mrs. C. P.Atukorale,Mrs. C. P.Atukorale,Atukorale,P10027,1990-01-01,1,1,4,F,0
+P124371,1,1990-01-01,Mrs. C.R.Dias,Mrs. C.R.Dias,Dias,P10028,1990-01-01,1,1,4,F,0
+P514238,1,1990-01-01,Mr. W.A.P.S.Perera,Mr. W.A.P.S.Perera,Perera,P10029,1990-01-01,1,1,4,M,0
+P514361,1,1990-01-01,Mrs. W.P.M.N. Weerawardena,Mrs. W.P.M.N. Weerawardena,Weerawardena,P10030,1990-01-01,1,1,4,F,0
+PENSION2,1,1990-01-01,Mr. J.K.W. Fernando,Mr. J.K.W. Fernando,Fernando,P10031,1990-01-01,1,1,4,M,0
+P514338,1,1990-01-01,Mrs. U.T. Galagedera,Mrs. U.T. Galagedera,Galagedera,P10032,1990-01-01,1,1,4,F,0
